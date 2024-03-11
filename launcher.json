@@ -1,0 +1,36 @@
+{
+    "games": {
+        "1": {
+            "name": "Ark: Survival Ascended",
+            "description": "",
+            "icon": "",
+            "background": "",
+            "steamId": "2399830",
+            "servers": {
+                "1": {
+                    "name": "Dedsafio Ark Speedrun",
+                    "ip": "",
+                    "port": "",
+                    "icon": "",
+                    "background": ""
+                }
+            }
+        },
+        "2": {
+            "name": "Minecraft",
+            "description": "",
+            "icon": "",
+            "background": "",
+            "servers": {
+                "1": {
+                    "name": "Dedsafio Minecraft",
+                    "ip": "",
+                    "port": "",
+                    "icon": "",
+                    "background": ""
+                }
+            }
+
+        }
+    }
+}
