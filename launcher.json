@@ -9,8 +9,8 @@
             "servers": {
                 "1": {
                     "name": "Dedsafio Ark Speedrun",
-                    "ip": "",
-                    "port": "",
+                    "ip": "27c1c69fe2a998b1de7732ccc7ecbc44c15ebaab431303e18205d0fb2eb869ede6c7147c6a41a2852c07f2f103d6b06e",
+                    "port": "5a5f54a9d60c787bd45d71823bc72b1e75d4b945972260433dd995a7ca1697c57afe0af366712fb502722ec748fd2675",
                     "icon": "",
                     "background": ""
                 }
@@ -24,8 +24,8 @@
             "servers": {
                 "1": {
                     "name": "Dedsafio Minecraft",
-                    "ip": "",
-                    "port": "",
+                    "ip": "b2442818a034902612a1fa20b3f17d56fdc086ab918b1794c0c948ccf03a7890f4d597dea043f52103420616f811d7cb",
+                    "port": "a90a5e08a1eb174882bbc18994ba942d934d52339068e065b1c826ed8eeca305a3e2220b11a0038feaa5cec7fe4ae7bc",
                     "icon": "",
                     "background": ""
                 }
