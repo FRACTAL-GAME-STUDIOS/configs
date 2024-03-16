@@ -3,8 +3,8 @@
         "1": {
             "name": "Ark: Survival Ascended",
             "description": "",
-            "icon": "",
-            "background": "",
+            "icon": "https://cdn2.steamgriddb.com/icon/f0cc9c986150c744a922084100fab0c0/32/256x256.png",
+            "background": "https://wallpapercave.com/wp/wp1839666.jpg",
             "steamId": "2399830",
             "servers": {
                 "1": {
@@ -18,9 +18,9 @@
         },
         "2": {
             "name": "Minecraft",
-            "description": "",
-            "icon": "",
-            "background": "",
+            "description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles.",
+            "icon": "https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png",
+            "background": "https://www.minecraft.net/content/dam/games/minecraft/key-art/MC-Vanilla_Updates-Carousel_Wild-Update_800x450.jpg",
             "servers": {
                 "1": {
                     "name": "Dedsafio Minecraft",
