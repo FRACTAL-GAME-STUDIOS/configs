@@ -1,84 +1,85 @@
 {
-	"games": [
-		{
-			"id": 1,
-			"idGame": "7fe61ed6-06d0-43bc-bce2-37b4be446507",
-			"name": "Minecraft",
-			"icon": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/minecraft/icon.png",
-			"viewElements": {
-				"char": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/minecraft/char.png",
-				"background": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/minecraft/background.png"
-			}
-		},
-        {
-            "id": 2,
-            "idGame": "c2b18e72-d680-4367-959c-36cf7c4a1a09",
-            "name": "Ark Survival Ascended",
-            "icon": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/ark/icon.png",
-            "viewElements": {
-                "char": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/ark/char.png",
-                "background": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/ark/background.png"
-            }          
-        },
-        {
-            "id": 3,
-            "idGame": "3115b833-a2dc-4af6-b3bc-0d347901709c",
-            "name": "FiveM",
-            "icon": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/fivem/icon.png",
-            "viewElements": {
-                "char": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/fivem/char.png",
-                "background": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/fivem/background.png"
-            }          
-        },
-        {
-            "id": 4,
-            "idGame": "9af918e2-1398-4e8d-a26a-18ed85200454",
-            "name": "RedM",
-            "icon": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/redm/icon.png",
-            "viewElements": {
-                "char": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/redm/char.png",
-                "background": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/redm/background.png"
-            }          
-        },
-        {
-            "id": 5,
-            "idGame": "8a7b2498-57d4-4209-b074-a51573f298f5",
-            "name": "Project Zomboid",
-            "icon": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/zomboid/icon.png",
-            "viewElements": {
-                "char": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/zomboid/char.png",
-                "background": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/zomboid/background.png"
-            }        
-        },
-        {
-            "id": 6,
-            "idGame": "7025c405-3d31-40e0-b1dd-8abc608f05ba",
-            "name": "DayZ",
-            "icon": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/dayz/icon.png",
-            "viewElements": {
-                "char": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/dayz/char.png",
-                "background": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/dayz/background.png"
-            }        
-        },
-        {
-            "id": 7,
-            "idGame": "efe76539-2490-4694-9633-be75eccf3583",
-            "name": "7 Days to Die",
-            "icon": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/7dtd/icon.png",
-            "viewElements": {
-                "char": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/7dtd/char.png",
-                "background": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/7dtd/background.png"
-            }        
-        },
-        {
-            "id": 8,
-            "idGame": "d170a2b6-9fdd-49a7-9d84-84d8c1a10062",
-            "name": "Rust",
-            "icon": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/rust/icon.png",
-            "viewElements": {
-                "char": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/rust/char.png",
-                "background": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/rust/background.png"
-            }        
-        }
-	]
+  "games": [
+    {
+      "id": 1,
+      "idGame": "7fe61ed6-06d0-43bc-bce2-37b4be446507",
+      "name": "Minecraft",
+      "icon": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/minecraft/icon.png",
+      "viewElements": {
+        "char": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/minecraft/char.png",
+        "background": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/minecraft/background.png"
+      }
+    },
+    {
+      "id": 2,
+      "idGame": "c2b18e72-d680-4367-959c-36cf7c4a1a09",
+      "name": "Ark Survival Ascended",
+      "steamId": "2430930",
+      "icon": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/ark/icon.png",
+      "viewElements": {
+        "char": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/ark/char.png",
+        "background": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/ark/background.png"
+      }
+    },
+    {
+      "id": 3,
+      "idGame": "3115b833-a2dc-4af6-b3bc-0d347901709c",
+      "name": "FiveM",
+      "icon": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/fivem/icon.png",
+      "viewElements": {
+        "char": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/fivem/char.png",
+        "background": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/fivem/background.png"
+      }
+    },
+    {
+      "id": 4,
+      "idGame": "9af918e2-1398-4e8d-a26a-18ed85200454",
+      "name": "RedM",
+      "icon": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/redm/icon.png",
+      "viewElements": {
+        "char": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/redm/char.png",
+        "background": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/redm/background.png"
+      }
+    },
+    {
+      "id": 5,
+      "idGame": "8a7b2498-57d4-4209-b074-a51573f298f5",
+      "name": "Project Zomboid",
+      "icon": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/zomboid/icon.png",
+      "viewElements": {
+        "char": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/zomboid/char.png",
+        "background": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/zomboid/background.png"
+      }
+    },
+    {
+      "id": 6,
+      "idGame": "7025c405-3d31-40e0-b1dd-8abc608f05ba",
+      "name": "DayZ",
+      "icon": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/dayz/icon.png",
+      "viewElements": {
+        "char": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/dayz/char.png",
+        "background": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/dayz/background.png"
+      }
+    },
+    {
+      "id": 7,
+      "idGame": "efe76539-2490-4694-9633-be75eccf3583",
+      "name": "7 Days to Die",
+      "icon": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/7dtd/icon.png",
+      "viewElements": {
+        "char": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/7dtd/char.png",
+        "background": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/7dtd/background.png"
+      }
+    },
+    {
+      "id": 8,
+      "idGame": "d170a2b6-9fdd-49a7-9d84-84d8c1a10062",
+      "name": "Rust",
+      "icon": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/rust/icon.png",
+      "viewElements": {
+        "char": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/rust/char.png",
+        "background": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/rust/background.png"
+      }
+    }
+  ]
 }
