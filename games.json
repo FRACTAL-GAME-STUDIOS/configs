@@ -13,7 +13,7 @@
     {
       "id": 2,
       "idGame": "c2b18e72-d680-4367-959c-36cf7c4a1a09",
-      "name": "Ark Survival Ascended",
+      "name": "Ark_Survival_Ascended",
       "steamId": "2399830",
       "icon": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/ark/icon.png",
       "viewElements": {
@@ -44,7 +44,7 @@
     {
       "id": 5,
       "idGame": "8a7b2498-57d4-4209-b074-a51573f298f5",
-      "name": "Project Zomboid",
+      "name": "Project_Zomboid",
       "icon": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/zomboid/icon.png",
       "viewElements": {
         "char": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/zomboid/char.png",
@@ -64,7 +64,7 @@
     {
       "id": 7,
       "idGame": "efe76539-2490-4694-9633-be75eccf3583",
-      "name": "7 Days to Die",
+      "name": "7_Days_to_Die",
       "icon": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/7dtd/icon.png",
       "viewElements": {
         "char": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/7dtd/char.png",
