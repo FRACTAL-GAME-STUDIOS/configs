@@ -24,6 +24,15 @@
 			"ip": "138.201.189.47",
 			"port": "2312",
 			"icon": ""
+		},
+		{
+			"idGame": "8a7b2498-57d4-4209-b074-a51573f298f5",
+			"name": "The Den of Evil",
+			"description": "",
+			"ip": "zSxg10yhswk0d/a9Akl9Wg==",
+			"port": "eFFHoJr3zE9zotoH/DkFPA==",
+			"password": "kNtVfJIiPdRbt/WDxeDokw==",
+			"icon": ""
 		}
 	]
 }
