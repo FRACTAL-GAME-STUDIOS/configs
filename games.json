@@ -45,6 +45,7 @@
       "id": 5,
       "idGame": "8a7b2498-57d4-4209-b074-a51573f298f5",
       "name": "Project_Zomboid",
+      "steamId": "108600",
       "icon": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/zomboid/icon.png",
       "viewElements": {
         "char": "https://raw.githubusercontent.com/FRACTAL-GAME-STUDIOS/configs/main/assets/zomboid/char.png",
