@@ -1,13 +1,20 @@
 {
-	"servers": [
-		{
-			"idGame": "8a7b2498-57d4-4209-b074-a51573f298f5",
-			"name": "The Den of Evil",
-			"description": "You're tired of not finding anything fun, so here we present you The Den of Evil, your favorite Project Zomboid server. Try Update",
-			"ip": "zSxg10yhswk0d/a9Akl9Wg==",
-			"port": "eFFHoJr3zE9zotoH/DkFPA==",
-			"password": "kNtVfJIiPdRbt/WDxeDokw==",
-			"icon": ""
-		}
-	]
+    "servers": [
+        {
+            "idGame": "8a7b2498-57d4-4209-b074-a51573f298f5",
+            "name": "The Den of Evil",
+            "description": "You're tired of not finding anything fun, so here we present you The Den of Evil, your favorite Project Zomboid server. Try Update",
+            "ip": "zSxg10yhswk0d/a9Akl9Wg==",
+            "port": "eFFHoJr3zE9zotoH/DkFPA==",
+            "password": "kNtVfJIiPdRbt/WDxeDokw==",
+            "icon": "",
+            "discordUrl": "https://discord.fake/TheDenOfEvil",
+            "telegramUrl": "https://t.me/TheDenOfEvil",
+            "xUrl": "https://example.com/TheDenOfEvil",
+            "twitchUrl": "https://twitch.tv/TheDenOfEvil",
+            "youtubeUrl": "https://youtube.com/TheDenOfEvil",
+            "facebookUrl": "https://facebook.com/TheDenOfEvil",
+            "tiktokUrl": "https://tiktok.com/@TheDenOfEvil"
+        }
+    ]
 }
