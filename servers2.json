@@ -1,38 +1,116 @@
 {
-	"servers": [
-    {
-			"idGame": "c2b18e72-d680-4367-959c-36cf7c4a1a09",
-			"name": "FractARK",
-			"description": "",
-			"ip": "PaXZEyVQdau9CqavZj0KHw==",
-			"port": "Q7FkK7wlmm1CAlxYUlnfnA==",
-			"password": "ypiAeSbO9Ktow43pWHx/8w==",
-			"icon": ""
-		},
-		{
-			"idGame": "c2b18e72-d680-4367-959c-36cf7c4a1a09",
-			"name": "Arkuna",
-			"description": "",
-			"ip": "yC72KLD31xuIGt7zQPpGjGqwx8nD6xOevQWwPZjS3TI=",
-			"port": "03Zv4vBQhsxnzvjhLCxRUA==",
-			"icon": ""
-		},
-		{
-			"idGame": "7025c405-3d31-40e0-b1dd-8abc608f05ba",
-			"name": "test  - TITANFALL",
-			"description": "",
-			"ip": "138.201.189.47",
-			"port": "2312",
-			"icon": ""
-		},
-		{
-			"idGame": "8a7b2498-57d4-4209-b074-a51573f298f5",
-			"name": "The Den of Evil",
-			"description": "",
-			"ip": "zSxg10yhswk0d/a9Akl9Wg==",
-			"port": "eFFHoJr3zE9zotoH/DkFPA==",
-			"password": "kNtVfJIiPdRbt/WDxeDokw==",
-			"icon": ""
-		}
-	]
+    "servers": [
+        {
+            "idGame": "7fe61ed6-06d0-43bc-bce2-37b4be446507",
+            "name": "FractalCraft",
+            "description": "Un servidor de Minecraft para probar el mod de los Monstruos Muntantes.",
+            "ip": "zSxg10yhswk0d/a9Akl9Wg==",
+            "port": "eFFHoJr3zE9zotoH/DkFPA==",
+            "password": "kNtVfJIiPdRbt/WDxeDokw==",
+            "icon": "https://media.discordapp.net/attachments/1190453964605493328/1193990721909309583/enblanco.png?ex=66a1f643&is=66a0a4c3&hm=f5981a4f4bd9952b266af01b6cdea37ebb0bbb85bcce8a65193256e2ffd8b3d6&=&format=webp&quality=lossless&width=810&height=810",
+            "discordUrl": "https://discord.fake/TheDenOfEvil",
+            "telegramUrl": "https://t.me/TheDenOfEvil",
+            "xUrl": "https://example.com/TheDenOfEvil",
+            "twitchUrl": "https://twitch.tv/TheDenOfEvil",
+            "youtubeUrl": "https://youtube.com/TheDenOfEvil"
+        },
+        {
+            "idGame": "8a7b2498-57d4-4209-b074-a51573f298f5",
+            "name": "DEDSafio ARK",
+            "description": "Un servidor de streams de duración mensual, con los máximos streamers de twitch de habla hispana.",
+            "ip": "zSxg10yhswk0d/a9Akl9Wg==",
+            "port": "eFFHoJr3zE9zotoH/DkFPA==",
+            "password": "kNtVfJIiPdRbt/WDxeDokw==",
+            "icon": "",
+            "discordUrl": "https://discord.fake/TheDenOfEvil",
+            "telegramUrl": "https://t.me/TheDenOfEvil",
+            "xUrl": "https://example.com/TheDenOfEvil",
+            "twitchUrl": "https://twitch.tv/TheDenOfEvil",
+            "youtubeUrl": "https://youtube.com/TheDenOfEvil"
+        },
+        {
+            "idGame": "3115b833-a2dc-4af6-b3bc-0d347901709c",
+            "name": "Fractal OUT",
+            "description": "Un servidor de roleplay en FiveM, inspirado en la serie de Fallout de Bethesda.",
+            "ip": "zSxg10yhswk0d/a9Akl9Wg==",
+            "port": "eFFHoJr3zE9zotoH/DkFPA==",
+            "password": "kNtVfJIiPdRbt/WDxeDokw==",
+            "icon": "https://media.discordapp.net/attachments/1190453964605493328/1193990719891853424/colores.png?ex=66a1f642&is=66a0a4c2&hm=4a7d87bb602c0a7cc0f111c20ac1f042e094da4729883a285e8e0e3d7a851355&=&format=webp&quality=lossless&width=810&height=810",
+            "discordUrl": "https://discord.fake/TheDenOfEvil",
+            "telegramUrl": "https://t.me/TheDenOfEvil",
+            "xUrl": "https://example.com/TheDenOfEvil",
+            "twitchUrl": "https://twitch.tv/TheDenOfEvil",
+            "youtubeUrl": "https://youtube.com/TheDenOfEvil"
+        },
+        {
+            "idGame": "9af918e2-1398-4e8d-a26a-18ed85200454",
+            "name": "Leyendas del Oeste",
+            "description": "Bienvenido a Leyendas del Oeste,servidor inspirado en 1899 de Rockstar Games, Red Dead Redemption 2.",
+            "ip": "zSxg10yhswk0d/a9Akl9Wg==",
+            "port": "eFFHoJr3zE9zotoH/DkFPA==",
+            "password": "kNtVfJIiPdRbt/WDxeDokw==",
+            "icon": "",
+            "discordUrl": "https://discord.fake/TheDenOfEvil",
+            "telegramUrl": "https://t.me/TheDenOfEvil",
+            "xUrl": "https://example.com/TheDenOfEvil",
+            "twitchUrl": "https://twitch.tv/TheDenOfEvil",
+            "youtubeUrl": "https://youtube.com/TheDenOfEvil"
+        },
+        {
+            "idGame": "c2b18e72-d680-4367-959c-36cf7c4a1a09",
+            "name": "The Den of Evil",
+            "description": "Estas cansado de no encontrar nada divertido, pues aquí te presentamos The Den of Evil, tu servidor favorito de Project Zomboid.",
+            "ip": "zSxg10yhswk0d/a9Akl9Wg==",
+            "port": "eFFHoJr3zE9zotoH/DkFPA==",
+            "password": "kNtVfJIiPdRbt/WDxeDokw==",
+            "icon": "https://cdn.discordapp.com/attachments/1190453964605493328/1245057564463468554/avatar.jpg?ex=66a1da77&is=66a088f7&hm=be59700b4d203aec303f38e9d69b5631521d1592b90e10b748052fabd5babe1f&",
+            "discordUrl": "https://discord.fake/TheDenOfEvil",
+            "telegramUrl": "https://t.me/TheDenOfEvil",
+            "xUrl": "https://example.com/TheDenOfEvil",
+            "twitchUrl": "https://twitch.tv/TheDenOfEvil",
+            "youtubeUrl": "https://youtube.com/TheDenOfEvil"
+        },
+        {
+            "idGame": "7025c405-3d31-40e0-b1dd-8abc608f05ba",
+            "name": "Chernarus 2077",
+            "description": "Un servidor jodidamente complicado, si no haces los pasos necesarios en menos de 5 minutos, sufrirás las consecuencias.",
+            "ip": "zSxg10yhswk0d/a9Akl9Wg==",
+            "port": "eFFHoJr3zE9zotoH/DkFPA==",
+            "password": "kNtVfJIiPdRbt/WDxeDokw==",
+            "icon": "https://media.discordapp.net/attachments/1190453964605493328/1193990746139791370/metal.png?ex=66a1f649&is=66a0a4c9&hm=61c70608ccffbc8601c17c4e813311f9c515db8ca544f0acea0c4b931efaacca&=&format=webp&quality=lossless&width=810&height=810",
+            "discordUrl": "https://discord.fake/TheDenOfEvil",
+            "telegramUrl": "https://t.me/TheDenOfEvil",
+            "xUrl": "https://example.com/TheDenOfEvil",
+            "twitchUrl": "https://twitch.tv/TheDenOfEvil",
+            "youtubeUrl": "https://youtube.com/TheDenOfEvil"
+        },
+        {
+            "idGame": "efe76539-2490-4694-9633-be75eccf3583",
+            "name": "7 dias para palmarla",
+            "description": "Un servidor del Streamer NEXUZZ, donde tendras 3 vidas disponibles las cuales al agotarse, no podras volve a jugar.",
+            "ip": "zSxg10yhswk0d/a9Akl9Wg==",
+            "port": "eFFHoJr3zE9zotoH/DkFPA==",
+            "password": "kNtVfJIiPdRbt/WDxeDokw==",
+            "icon": "https://media.discordapp.net/attachments/1190453964605493328/1193990721909309583/enblanco.png?ex=66a1f643&is=66a0a4c3&hm=f5981a4f4bd9952b266af01b6cdea37ebb0bbb85bcce8a65193256e2ffd8b3d6&=&format=webp&quality=lossless&width=810&height=810",
+            "discordUrl": "https://discord.fake/TheDenOfEvil",
+            "telegramUrl": "https://t.me/TheDenOfEvil",
+            "xUrl": "https://example.com/TheDenOfEvil",
+            "twitchUrl": "https://twitch.tv/TheDenOfEvil",
+            "youtubeUrl": "https://youtube.com/TheDenOfEvil"
+        },
+        {
+            "idGame": "d170a2b6-9fdd-49a7-9d84-84d8c1a10062",
+            "name": "EGOLAND",
+            "description": "Un serie con mucho ego. Donde la gente no se respeta y se reveienta mutuamente a cañonazos.",
+            "ip": "zSxg10yhswk0d/a9Akl9Wg==",
+            "port": "eFFHoJr3zE9zotoH/DkFPA==",
+            "password": "kNtVfJIiPdRbt/WDxeDokw==",
+            "icon": "https://media.discordapp.net/attachments/1190453964605493328/1227631091112738897/fractal-144.png?ex=66a2658c&is=66a1140c&hm=877b690ad8f010ee3eff9f4deeba067763d875c8caa2060c7e9203cf9bae1e7a&=&format=webp&quality=lossless",
+            "discordUrl": "https://discord.fake/TheDenOfEvil",
+            "telegramUrl": "https://t.me/TheDenOfEvil",
+            "xUrl": "https://example.com/TheDenOfEvil",
+            "twitchUrl": "https://twitch.tv/TheDenOfEvil",
+            "youtubeUrl": "https://youtube.com/TheDenOfEvil"
+        }
+    ]
 }
